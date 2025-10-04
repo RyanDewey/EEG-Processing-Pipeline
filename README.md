@@ -1,7 +1,7 @@
-### EEG Dataset Processing Project
-# Ryan Dewey
+# EEG Dataset Processing Project
+## Ryan Dewey
 
-## This project uses the PhysioNet EEG Motor Movement/Imagery Dataset
+### This project uses the PhysioNet EEG Motor Movement/Imagery Dataset
 
 ## Citation:
 
